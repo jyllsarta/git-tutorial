@@ -1,5 +1,5 @@
-nyan
+gitチュートリアルの本を読んでいます
 
  - i am in feature-A
- - I am B #merged!
- - feature-C oh miss spell
+ - I am B 
+ - in C
